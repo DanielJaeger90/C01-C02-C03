@@ -6,13 +6,13 @@
 /*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/21 01:30:41 by marvin            #+#    #+#             */
-/*   Updated: 2024/02/22 08:33:10 by marvin           ###   ########.fr       */
+/*   Updated: 2024/02/28 08:25:43 by marvin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
 
-int	ft_strcmp(char *s1, char *s2)
+int	ft_strcpy(char *s1, char *s2)
 {
 	unsigned int	i;
 
